@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196720630244",
+    "project_id": "doctorlogin-1d565",
+    "storage_bucket": "doctorlogin-1d565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196720630244:android:9a2e4462ba59511d794ff1",
+        "android_client_info": {
+          "package_name": "com.example.doctorlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyQZZpXm7oa0J9ILktfjLzhVxtJbl-1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
